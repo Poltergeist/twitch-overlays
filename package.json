@@ -1,0 +1,16 @@
+{
+  "name": "twitch-overlays",
+  "version": "1.0.0",
+  "description": "These are my twitch overlays which are web based",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "author": "sp3c1",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "prettier": "^3.4.2"
+  }
+}
